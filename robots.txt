@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: rbtzuniga.github.io/sitemap.xml
+Sitemap: https://rbtzuniga.github.io/sitemap.xml
